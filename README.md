@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Jayalakshmi Rajan
 #### Data Analyst and Tech Enthusiast
-![alt text](https://ibb.co/FBJ8mrN)
+![panda muse](https://github.com/user-attachments/assets/783d9da3-e69d-409a-9c12-16de19853faf)
+
 
 💻 What I Do:
 Analyze complex datasets to uncover actionable insights using tools like Python, SQL, Power BI, and Tableau.
