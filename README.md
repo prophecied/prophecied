@@ -21,7 +21,7 @@ Solving real-world problems with data.
 Staying updated with emerging trends in technology and analytics.
 Sharing knowledge and helping others grow in the tech community.
 📫 Let’s Connect:
-Feel free to check out my projects below, or connect with me on ![LinkedIn](https://www.linkedin.com/in/jaya-lakshmi-r/). Let’s collaborate and turn data into actionable insights!
+Feel free to check out my projects below, or connect with me on [LinkedIn](https://www.linkedin.com/in/jaya-lakshmi-r/). Let’s collaborate and turn data into actionable insights!
 
 Skills: Excel / SQL / Tableau / Python / Power BI /...... many more. 
 
