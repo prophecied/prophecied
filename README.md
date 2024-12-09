@@ -8,7 +8,8 @@ Analyze complex datasets to uncover actionable insights using tools like Python,
 Build interactive dashboards and reports to help businesses make data-driven decisions.
 Leverage my knowledge of ETL pipelines, Google BigQuery, and Apache Spark to process and manage large-scale datasets.
 Collaborate with teams to develop innovative solutions for data-driven challenges.
-🎓 Education & Certifications:
+
+🎓 Education:
 I hold Post Graduate Diplomas in Big Data Analytics and Project Management, as well as a Bachelors in Electronics and 
 Communication Engineering.
 
